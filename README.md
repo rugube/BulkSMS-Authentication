@@ -6,10 +6,9 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/waltermwanyisa/authentication.git PlatformApi
+$ git clone https://github.com/rugube/BulkSMS-Authentication.git
 
 # go into app's directory
-$ cd PlatformApi
 
 # install app's dependencies
 $ npm install
